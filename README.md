@@ -1,2 +1,5 @@
-# jedha-fs-s5-project
-Machine Learning non-supervisé - K-means
+# Jedha Data Science Bootcamp - Fullstack - Semaine 5
+
+_Session dsmft-paris-08_
+
+# Projet
