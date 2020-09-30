@@ -1,16 +1,18 @@
-# Jedha Data Science Bootcamp - Fullstack - Semaine 5
+# Unsupervised machine learning
 
-_Session dsmft-paris-08_
+> Jedha Data Science Bootcamp - Fullstack - week 5
 
-## Utiliser les KMeans pour des Trips Uber
+> _Session dsmft-paris-08_
 
-Dans ce projet, vous allez vous rendre compte du pouvoir des KMeans dans le monde actuel. Imaginez que vous êtes Uber et que vous souhaitez donner des recommendations quant aux endroits où les chauffeurs devraient se trouver pour maximiser leurs chances de trouver une course.
+## Using KMeans for Uber trips
 
-Nous allons utiliser le Machine Learning pour créer cet algorithme de recommandations.
+In this project, we use the power of KMeans clustering in real world use case. Imagine you are Uber and you would like to make recommandations to your drivers. These recommandations will tell the drivers the locations where they should be waiting to maximize their chances to have a pick-up call.
 
-Prenez le dataset suivant : [uber-trip-data](https://github.com/fivethirtyeight/uber-tlc-foil-response/tree/master/uber-trip-data)
+## Data
 
-1. Essayez de voir le nombre de clusters optimum
-2. Trouvez ces clusters sur une map
-3. Séparez maintenant ces clusters en fonction des périodes de la journée
-4. Regardez la différence KMeans et DBSCAN
+With this dataset : [uber-trip-data](https://github.com/fivethirtyeight/uber-tlc-foil-response/tree/master/uber-trip-data)
+
+1. Estimate the optimum number of clusters
+2. Locate those clusters on a map
+3. Separate the clusters according to time of day
+4. What are the differences between KMeans and DBSCan ?
